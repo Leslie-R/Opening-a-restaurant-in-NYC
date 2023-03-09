@@ -7,4 +7,4 @@ Partner Shadman Samad and I focused on the following:
 * Choosing a restaurant that can remain running in this competitive market.
 ***
 We extracted our data from SQL, cleaned and parsed the data using python, and created visuals with python and tableau.
-Uploaded are our report, powerpoint presentation and python scrip.
+Uploaded is our report, powerpoint presentation and python scrip.
